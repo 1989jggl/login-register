@@ -1,0 +1,20 @@
+[
+  {
+    "corelec": "jggl1989@gmail.com",
+    "nomuser": "jose gil",
+    "password": "$2a$10$eL.qs7Yj6JE/0BmoWD8AaOpUFOjo3pMutTT9igrkEWL4tzU60w3A.",
+    "type": "bussines"
+  },
+  {
+    "corelec": "nokiagaudy@hotmail.com",
+    "nomuser": "joppo",
+    "password": "$2a$10$k97OD5W6aFX6/brj3V2JS.Pt/WK44nFp4X4VlDKca52nnaNzl/v7u",
+    "type": "developers"
+  },
+  {
+    "corelec": "newgaudy@hotmail.com",
+    "nomuser": "jose",
+    "password": "$2a$10$X6gr0V14oSpZdKWZVbZUQOibqu4H2miqenJbIevsv0B33bGS26jtG",
+    "type": "developers"
+  }
+]
